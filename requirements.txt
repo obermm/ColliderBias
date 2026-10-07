@@ -1,0 +1,8 @@
+jax>=0.4.30
+numpyro>=0.15
+numpy
+scipy
+matplotlib
+# only for experiments/nested_baselines:
+# optax
+# niff-replication @ git+https://github.com/BoltMaxwell/niff-replication@dab4403
